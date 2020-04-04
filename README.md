@@ -1,1 +1,1 @@
-# Amsterdam-listings-analysis
+# Amsterdam Airbnb listings analysis
